@@ -61,7 +61,7 @@ The top 5 managers have the highest number of team members, with an average of o
 
 ![{45680FBA-B39B-4388-A87C-237E633DF8B3}](https://github.com/user-attachments/assets/61307942-c24f-42ff-bdd3-dbdfe934e43a)
 
-The manager, Simon Roup has participated in 99 out of 379 projects, the most of project number. The average engagement survey score for these projects is 3.76%. 44.44% of the employees reported satisfaction.
+The manager, Simon Roup has participated in 99 out of 379 projects, most of the project number. The average engagement survey score for these projects is 3.76%. 44.44% of the employees reported satisfaction.
 
 ![{03D3E118-4C10-4F63-961B-12FD6830BD51}](https://github.com/user-attachments/assets/445bfe1a-d2ed-450f-b96d-052338fb348f) ![{E0BB86C5-E9F8-4C7F-BCE3-E699DF7FAC93}](https://github.com/user-attachments/assets/5df2a3d0-f6c9-4036-a0e1-153b5229e068)
 
@@ -76,4 +76,11 @@ Engagement surveys are used to evaluate how well each employee is performing in 
 Finally, gathering feedback from employees about their job satisfaction is important for understanding their overall satisfaction and identifying areas for improvement.
 
 ![{62C6E184-AF99-466C-8EF5-8027ABAB6E4D}](https://github.com/user-attachments/assets/9e49e1a3-ea5f-42c1-b1e3-bbd0d7e4238e)
+
+Overview analysis graphic
+![{C185B69D-B9C9-4118-B208-B78DA6E0B2D9}](https://github.com/user-attachments/assets/e92fa3f6-92fd-42f3-a7da-4167b51e9349)
+
+![{E476338E-1D41-4FA4-8E3D-5218989B9819}](https://github.com/user-attachments/assets/9c8386a0-2ecc-4284-aef5-ebfbd0685660)
+
+![{5A843CC4-F6B9-4D33-A92F-57EE3813F1D3}](https://github.com/user-attachments/assets/bfd8b939-6ce9-40a0-8461-d42e295e37ca)
 
